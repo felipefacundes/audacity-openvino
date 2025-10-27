@@ -1,6 +1,6 @@
 # Audacity with OpenVINO Support
 
-[![Version](https://img.shields.io/badge/version-3.6.0-blue.svg)](https://github.com/felipefacundes/audacity-openvino/releases)
+[![Version](https://img.shields.io/badge/version-3.7.5-blue.svg)](https://github.com/felipefacundes/audacity-openvino/releases)
 [![License](https://img.shields.io/badge/license-GPLv3-green.svg)](LICENSE)
 [![AUR](https://img.shields.io/badge/AUR-available-cyan.svg)](https://aur.archlinux.org/packages/audacity-openvino)
 
@@ -121,7 +121,7 @@ This project is licensed under the **GNU General Public License v3.0** - see the
 
 - **Issues**: [GitHub Issues](https://github.com/felipefacundes/audacity-openvino/issues)
 - **AUR**: [audacity-openvino-bin](https://aur.archlinux.org/packages/audacity-openvino-bin)
-- **Documentation**: [Project Wiki](https://github.com/felipefacundes/audacity-openvino/wiki)
+- **Documentation**: [Project Manual](https://manual.audacityteam.org/)
 
 ---
 
